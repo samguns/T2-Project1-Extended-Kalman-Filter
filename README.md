@@ -1,1 +1,2 @@
-# T2-Project1-Extended-Kalman-Filter
+# Self-Driving Car Engineer Nanodegree Program
+## Term2 Project 1 - Extended Kalman Filter
